@@ -1,0 +1,4 @@
+name=readline(prompt = 'enter name: ')
+age=readline(prompt = 'enter age: ')
+print(paste('name:',name,'age: ',age))
+print(R.version.string)
